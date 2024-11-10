@@ -1,1 +1,1 @@
-# Productivity Assistant
+# Productivity Assistant Chrome Extension
